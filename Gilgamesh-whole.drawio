@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T02:25:08.142Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="Uknu7r9lvkV_KywKh3pB" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T02:28:58.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="CEby2GhalOde-X1UnHOm" version="24.6.4" type="github">
   <diagram id="D3b2O7mXZaBLHZMrj7lS" name="Page-1">
-    <mxGraphModel dx="2385" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2569" math="0" shadow="0">
+    <mxGraphModel dx="1217" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2569" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,12 +508,6 @@
         <mxCell id="OB1SwUoOK8lVcQ6QnIss-91" value="&lt;font style=&quot;border-color: var(--border-color); font-family: &amp;quot;Source Code Pro&amp;quot;; font-size: 20px;&quot; color=&quot;#ff0000&quot;&gt;⎋&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=31;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="195" y="420" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OB1SwUoOK8lVcQ6QnIss-94" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#ff0080&quot; style=&quot;font-size: 11px;&quot;&gt;Lpad&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="510" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OB1SwUoOK8lVcQ6QnIss-98" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#ff0080&quot; style=&quot;font-size: 11px;&quot;&gt;MCtl&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="610" y="180" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="OB1SwUoOK8lVcQ6QnIss-100" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 0, 0);&quot;&gt;VolUp&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
           <mxGeometry x="790" y="320" width="60" height="30" as="geometry" />
         </mxCell>
@@ -549,9 +543,6 @@
         </mxCell>
         <mxCell id="rx5Ag137ocZ3iWV7Ir7C-18" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 20px; line-height: normal; font-family: &amp;quot;Hiragino Sans&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;す&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="550" y="340" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-26" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; color=&quot;#0433ff&quot; style=&quot;font-size: 20px;&quot;&gt;⌥⌘&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="90" y="381" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rx5Ag137ocZ3iWV7Ir7C-16" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 20px; line-height: normal; font-family: &amp;quot;Hiragino Sans&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;つ&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="650" y="340" width="30" height="30" as="geometry" />
@@ -601,12 +592,6 @@
         <mxCell id="rx5Ag137ocZ3iWV7Ir7C-47" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 20px; line-height: normal; font-family: &amp;quot;Hiragino Sans&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;ひ&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#990000;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-70" y="162" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fillColor=#8C8C8C;fontSize=20;fillStyle=hatch;gradientColor=none;glass=0;shadow=0;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="70" y="390" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-40" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; color=&quot;#0433ff&quot; style=&quot;font-size: 20px;&quot;&gt;⌥&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="-5" y="380" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="BBY4bCGRp7vgqfXarrWV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fillColor=#8C8C8C;fontSize=20;fillStyle=hatch;gradientColor=none;glass=0;shadow=0;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="380" y="620" width="90" height="20" as="geometry" />
         </mxCell>
@@ -619,47 +604,8 @@
         <mxCell id="BBY4bCGRp7vgqfXarrWV-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fillColor=#8C8C8C;fontSize=20;fillStyle=hatch;gradientColor=none;glass=0;shadow=0;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="170" y="490" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-42" value="&lt;font color=&quot;#ff0000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; face=&quot;Source Code Pro&quot; style=&quot;font-size: 20px;&quot;&gt;^&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="697" y="382" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="BBY4bCGRp7vgqfXarrWV-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fillColor=#8C8C8C;fontSize=20;fillStyle=hatch;gradientColor=none;glass=0;shadow=0;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="590" y="490" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fillColor=#8C8C8C;fontSize=20;fillStyle=hatch;gradientColor=none;glass=0;shadow=0;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="790" y="390" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fillColor=#8C8C8C;fontSize=20;fillStyle=hatch;gradientColor=none;glass=0;shadow=0;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="690" y="390" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-46" value="&lt;font color=&quot;#ff0000&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; style=&quot;font-size: 20px;&quot;&gt;^&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="805" y="383" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fillColor=#8C8C8C;fontSize=20;fillStyle=hatch;gradientColor=none;glass=0;shadow=0;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="390" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-28" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; color=&quot;#0433ff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;⇧&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="78" y="379" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-29" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; face=&quot;Source Code Pro&quot; color=&quot;#0433ff&quot; style=&quot;font-size: 20px;&quot;&gt;^&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="113" y="383" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-33" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; face=&quot;Source Code Pro&quot; color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; style=&quot;font-size: 20px;&quot;&gt;⌘&lt;/font&gt;⌥&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="710" y="380" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-39" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; color=&quot;#0433ff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;⇧&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="-16" y="379" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-41" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; color=&quot;#0433ff&quot; style=&quot;font-size: 20px;&quot;&gt;^&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="7" y="382" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-43" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; face=&quot;Source Code Pro&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;⇧&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="733" y="379" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-44" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;⌥&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="815" y="381" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BBY4bCGRp7vgqfXarrWV-45" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Source+Code+Pro&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;⇧&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rounded=0;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;" parent="1" vertex="1">
-          <mxGeometry x="827" y="379" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BBY4bCGRp7vgqfXarrWV-52" value="&lt;font face=&quot;Helvetica&quot; style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;赤&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;rounded=0;fontColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="300" y="485" width="30" height="30" as="geometry" />
@@ -769,10 +715,10 @@
           <mxGeometry x="295" y="415" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGf-6DRVkryscWsTUc3d-6" value="&lt;font face=&quot;Source Code Pro&quot; color=&quot;#006600&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 102, 0);&quot;&gt;£&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="790" y="357" width="40" height="40" as="geometry" />
+          <mxGeometry x="785" y="357" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xGf-6DRVkryscWsTUc3d-7" value="&lt;font style=&quot;border-color: var(--border-color); font-family: &amp;quot;Source Code Pro&amp;quot;; font-size: 20px;&quot; color=&quot;#006600&quot;&gt;€&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="890" y="357" width="40" height="40" as="geometry" />
+          <mxGeometry x="885" y="357" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xGf-6DRVkryscWsTUc3d-8" value="&lt;span style=&quot;caret-color: rgb(0, 102, 0); color: rgb(0, 102, 0); font-family: &amp;quot;Source Code Pro&amp;quot;;&quot;&gt;°&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="485" y="151" width="40" height="40" as="geometry" />
@@ -781,16 +727,26 @@
           <mxGeometry x="505" y="270" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xGf-6DRVkryscWsTUc3d-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CCCCCC;endArrow=none;endFill=0;" parent="1" source="xGf-6DRVkryscWsTUc3d-12" target="jyPOKYWJDwKyRrshBXNK-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="465" />
+              <mxPoint x="480" y="465" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xGf-6DRVkryscWsTUc3d-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CCCCCC;endArrow=none;endFill=0;" parent="1" source="xGf-6DRVkryscWsTUc3d-12" target="jyPOKYWJDwKyRrshBXNK-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="465" />
+              <mxPoint x="370" y="465" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xGf-6DRVkryscWsTUc3d-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Source Code Pro;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSource%2BCode%2BPro;fillColor=#8C8C8C;fontSize=20;fillStyle=cross-hatch;gradientColor=none;glass=0;shadow=0;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="380" y="450" width="90" height="20" as="geometry" />
+          <mxGeometry x="380" y="455" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xGf-6DRVkryscWsTUc3d-16" value="&lt;span style=&quot;caret-color: rgb(0, 102, 0);&quot;&gt;CAPSWORD&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Source Code Pro;fontSource=https://fonts.googleapis.com/css?family=Source+Code+Pro;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="385" y="445" width="80" height="30" as="geometry" />
+          <mxGeometry x="385" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xGf-6DRVkryscWsTUc3d-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(255, 0, 0); font-size: 11px;&quot;&gt;&lt;font color=&quot;#006600&quot;&gt;GOOGL&lt;/font&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rounded=0;fontFamily=Source Code Pro;fontSource=https://fonts.googleapis.com/css?family=Source+Code+Pro;" parent="1" vertex="1">
           <mxGeometry x="170" y="319" width="60" height="30" as="geometry" />
@@ -806,6 +762,9 @@
         </mxCell>
         <mxCell id="xGf-6DRVkryscWsTUc3d-21" value="&lt;font color=&quot;#006600&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-family: &amp;quot;Source Code Pro&amp;quot;; font-size: 11px;&quot;&gt;paste&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Source Code Pro&amp;quot;; font-size: 11px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="42lgqCAuAiq8dQD9IHPC-1" value="&lt;font style=&quot;border-color: var(--border-color); font-family: &amp;quot;Source Code Pro&amp;quot;; font-size: 20px;&quot; color=&quot;#006600&quot;&gt;§&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="355" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
